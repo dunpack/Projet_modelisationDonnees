@@ -38,7 +38,13 @@ Ensuite,
 
 -> des diagrammes d'activité, ==> https://www.uml-diagrams.org/activity-diagrams.html
 
--> des descriptions textuelles des cas d'utilisation et, ???
+-> des descriptions textuelles des cas d'utilisation et, ==> interaction textuelle entre l UI et l utilisateur
+	-
+	-
+	-
+	-
+	-
+	- .. Rate le conducteur / Rate customer
 
 -> au moins un diagramme de classe (et d'objet) doivent être produits le cas échéant. ==>https://www.uml-diagrams.org/class-diagrams-overview.html
 
