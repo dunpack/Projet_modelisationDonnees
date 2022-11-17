@@ -25,21 +25,29 @@ La version finale du projet doit être envoyée, par LEA, avant le 16 décembre 
 Le projet est basé sur un travail d'équipe. 
 L'équipe est composée de 4 étudiants et travaille sur un sujet spécifique,
 lié à développement d’application, comme convenu. 
+
 --> Sujet "Uber" est - ce un API ou refaire l idee meme de Uber 
 
 ->	Après avoir analysé les besoins des utilisateurs, 
 	l’équipe doit définir la liste des besoins 
 	et des transactions de l'ensemble du système. 
 
-Ensuite, des diagrammes de cas d'utilisation, 
-des diagrammes d'activité, 
-des descriptions textuelles des cas d'utilisation et, 
--> au moins, un diagramme de classe (et d'objet) doivent être produits le cas échéant. 
--> Des diagrammes de séquence doivent être produits, 
--> au moins, pour chacune des interfaces utilisateur. 
+Ensuite, 
 
--> De plus, au moins trois récits d’usagers (avec leurs tests d'acceptation) doivent être produits. 
-En outre, des « prototypes en papier » simples peuvent être utilisés, le cas échéant.
+-> des diagrammes de cas d'utilisation,==> https://www.uml-diagrams.org/use-case-diagrams.html
+
+-> des diagrammes d'activité, ==> https://www.uml-diagrams.org/activity-diagrams.html
+
+-> des descriptions textuelles des cas d'utilisation et, ???
+
+-> au moins un diagramme de classe (et d'objet) doivent être produits le cas échéant. ==>https://www.uml-diagrams.org/class-diagrams-overview.html
+
+-> Des diagrammes de séquence doivent être produits, 
+   au moins pour chacune des interfaces utilisateur. ==>https://www.uml-diagrams.org/sequence-diagrams.html
+
+-> De plus, au moins trois récits d’usagers (avec leurs tests d'acceptation) doivent être produits. ==> voir exemple image
+
+-> En outre des « prototypes en papier » simples peuvent être utilisés, le cas échéant.
 
 Pour dessiner ces diagrammes UML, les étudiants peuvent utiliser
 des outils tels que: starUML (http://staruml.io/download), draw.io,
@@ -58,12 +66,12 @@ structure du rapport final ci-dessous) et le livrera via LEA.
 
 Structure du rapport final
 
-1. Introduction
+1. Introduction ==> presentation PowerPoint
 	Description de haut niveau du projet
 	Motivation
 
 
-2. Analyse de l'environnement d’affaire actuel
+2. Analyse de l'environnement d’affaire actuel ==> voir image google trend
 	Positionnement du produit par rapport aux autres produits
 	Public cible du produit
 		-Voyageur
@@ -82,7 +90,7 @@ Structure du rapport final
 		-inconveniant -> Uber Credit
 		-inconveniant -> Pas de Uber disponnible (disponnibilite des chauffeur)
 		
-	Méthodologie recommandée
+	Méthodologie recommandée ==> voir image scrum.png
 		--> ? voir avec Ramiro
 	
 
