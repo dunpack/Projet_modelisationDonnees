@@ -1,0 +1,109 @@
+
+Rencontre 14 novembre
+
+//------------------------------------------------------------------------//
+
+1 - **** Objectif du projet ****
+
+L'objectif principal de ce projet est de démontrer la connaissance 
+de la manière d'analyser et de concevoir efficacement et correctement un système logiciel, 
+en utilisant UML et la connaissance des modèles de développement logiciel.
+
+2 - **** Présentations de projets ****
+
+Les trois équipes doivent présenter ses projets. La présentation doit durer de 35 à 45 minutes, 
+avec 10 minutes supplémentaires pour les discussions (au besoin).
+Les équipes doivent être prêtes à présenter le 12 décembre. 
+Les présentations auront lieu le 12 décembre.
+
+
+3 - **** Délai de livraison final ****
+La version finale du projet doit être envoyée, par LEA, avant le 16 décembre 23h59.
+
+4 - **** Description du projet ****
+
+Le projet est basé sur un travail d'équipe. 
+L'équipe est composée de 4 étudiants et travaille sur un sujet spécifique,
+lié à développement d’application, comme convenu. 
+--> Sujet "Uber" est - ce un API ou refaire l idee meme de Uber 
+
+->	Après avoir analysé les besoins des utilisateurs, 
+	l’équipe doit définir la liste des besoins 
+	et des transactions de l'ensemble du système. 
+
+Ensuite, des diagrammes de cas d'utilisation, 
+des diagrammes d'activité, 
+des descriptions textuelles des cas d'utilisation et, 
+-> au moins, un diagramme de classe (et d'objet) doivent être produits le cas échéant. 
+-> Des diagrammes de séquence doivent être produits, 
+-> au moins, pour chacune des interfaces utilisateur. 
+
+-> De plus, au moins trois récits d’usagers (avec leurs tests d'acceptation) doivent être produits. 
+En outre, des « prototypes en papier » simples peuvent être utilisés, le cas échéant.
+
+Pour dessiner ces diagrammes UML, les étudiants peuvent utiliser
+des outils tels que: starUML (http://staruml.io/download), draw.io,
+ArgoUML (http://argouml.tigris.org/) ou MS Visio.
+
+L’équipe présentera son travail, lors d'une présentation orale. 
+Dans cette présentation, chaque membre de l’équipe sera évalué, et cette
+évaluation comptera pour la note finale du membre dans le projet.
+
+Après la présentation orale, l’équipe révisera son rapport final (voir la
+structure du rapport final ci-dessous) et le livrera via LEA.
+
+
+
+//------------------------------------------------------------------------//
+
+Structure du rapport final
+
+1. Introduction
+	Description de haut niveau du projet
+	Motivation
+
+
+2. Analyse de l'environnement d’affaire actuel
+	Positionnement du produit par rapport aux autres produits
+	Public cible du produit
+		-Voyageur
+		-Nouvelle personne arrivant
+		-Travailleur
+		-Personne sans voiture
+		
+
+3. Méthodologie de développement
+	Méthodologies applicables (avantages et inconvénients)
+		-frais
+		-temperature
+		-simplicite
+		-inconveniant -> reseau
+		-inconveniant -> carte de credit ou paypall
+		-inconveniant -> Uber Credit
+		-inconveniant -> Pas de Uber disponnible (disponnibilite des chauffeur)
+		
+	Méthodologie recommandée
+		--> ? voir avec Ramiro
+	
+
+4. Description du projet (portée et requis des utilisateurs).
+
+	Description détaillée de la solution
+	Portée (ce qui est dedans et ce qui est dehors)
+	La technologie
+	Hypothèses, risques, contraintes et plans de contingence
+	Calendrier préliminaire
+	Estimations préliminaires des coûts
+
+
+5. Analyse et conception du système
+	Diagrammes de cas d’utilisation
+	Diagrammes d'activités
+	Description textuelle des cas d'utilisation
+	Diagrammes de classe
+	Diagrammes de séquence
+	Prototypes en papier (le cas échéant)
+	Backlog Produit préliminaire (avec priorités et complexités)
+
+
+6. Conclusion
